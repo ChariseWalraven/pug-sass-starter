@@ -1,0 +1,16 @@
+{
+  "name": "pug-sass-starter",
+  "version": "1.0.0",
+  "description": "starter project for pug/jade and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charise Walraven<cherri.walraven@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "pug": "^2.0.4",
+    "sass": "^1.25.0"
+  }
+}
